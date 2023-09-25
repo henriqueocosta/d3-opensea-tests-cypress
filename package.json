@@ -1,0 +1,22 @@
+{
+  "name": "d3-opensea-tests-cypress-by-henrique",
+  "version": "1.0.0",
+  "description": "Automated tests by Henrique Oliveira Costa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriqueocosta/d3-opensea-tests-cypress.git"
+  },
+  "author": "Henrique Oliveira Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriqueocosta/d3-opensea-tests-cypress/issues"
+  },
+  "homepage": "https://github.com/henriqueocosta/d3-opensea-tests-cypress#readme",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
